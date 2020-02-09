@@ -1,0 +1,21 @@
+Python Tutorials
+Lecture 1
+Why python??
+Highly increasing growth of this language
+1.	Data analysis
+2.	Deep learning
+3.	Desktop app development
+4.	Web development
+5.	Whatsapp, instagram, quora, google, youtube
+
+Lecture 2
+
+Python 3 vs python 2
+Why python 3??
+•	Guido van Rossum (Creater of python) in 2008 thinks that python 2 has various deficiencies in it and the problem in python 3 is that it does not having backward compatibility
+•	Migrate is difficult, libraries also rewrite again
+•	So we have to maintained both python 2 and python 3
+•	But now all the companies are fully migrated to python 3
+
+
+
